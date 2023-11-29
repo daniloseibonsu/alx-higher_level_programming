@@ -15,4 +15,4 @@ elif last < 6:
     string = 'and is less than 6 and not 0'
 else:
     string = string
-print('Last digit of', number, 'is', last, string )
+print('Last digit of', number, 'is', last, string)
